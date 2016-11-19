@@ -1,0 +1,82 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+body {
+	background-image: linear-gradient(45deg, #ff5130, #dd2476);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.form {
+	width: 450px;
+	height: 450px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 4px;
+	padding: 25px;
+	margin-bottom: 100%;
+	background-color: #ffffff;
+	
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+p {
+	color: gray;
+font-family: 'Muli', sans-serif;
+font-weight: 100;
+font-size: 15px;
+padding: 20px 0px;
+	
+}
+
+input {
+	height: 50px;
+	width: 430px;
+	margin-bottom: 20px;
+	border-radius: 4px;
+	background-color: #f0f0f0;
+	padding-left: 10px;
+	font-size: 18px;
+	border: none;
+}
+
+#name {
+	margin-right: 10px;
+}
+
+
+
+.name {
+	width: 200px;
+}
+
+button {
+	width: 440px;
+	height: 50px;
+	background-color: #ea355a;
+	color: white;
+	font-weight: bold;
+	font-size: 1.2em;
+	border-radius: 4px;
+	font-family: 'Roboto', sans-serif;
+	border: none;
+	border-bottom: 3px solid #bb1961;
+}
+
+a {
+	color: #ea355a;
+	text-decoration: none;
+}
+
+h1:before {
+	content: url(783d9b069b-dailyform.jpg);
+	margin-right: 10px;
+}
+
